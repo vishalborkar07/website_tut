@@ -1,0 +1,12 @@
+{
+  "name": "website_tut",
+  "version": "1.0.0",
+  "description": "this is project for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon src/app.js -e js,hbs,html"
+  },
+  "author": "vishal borkar",
+  "license": "ISC"
+}
